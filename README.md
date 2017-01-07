@@ -7,3 +7,4 @@ The Trenches:
 - https://www.bell-labs.com/usr/dmr/www/otherlives.html
 - https://www.fefe.de/dietlibc/
 - https://12factor.net/
+- https://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html
