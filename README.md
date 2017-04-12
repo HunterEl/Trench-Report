@@ -8,3 +8,4 @@ The Trenches:
 - https://www.fefe.de/dietlibc/
 - https://12factor.net/
 - https://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html
+- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
